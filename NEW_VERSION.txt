@@ -1,0 +1,3 @@
+EKLENECEKLER
+1-Eğitim Bandı için ek ayarlar eklenecek. Bu ayarlar Bant Monitörle birlikte daha esnek bir yapı için kullanılacak.
+2-dikimHedefleri ve/veya koliHedefleri 0 olunca 0/0 hatası alınıyor, düzeltilecek.
